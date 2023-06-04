@@ -1,6 +1,0 @@
-﻿Operación Compilar iniciada..
-1>------ Operación Compilar iniciada: Proyecto: tareaLFGQbien, configuración: Debug x64 ------
-1>tareaLFGQbien.cpp
-1>tareaLFGQbien.vcxproj -> C:\Users\quint\OneDrive\Documentos\tareas\tareaLFGQbien\x64\Debug\tareaLFGQbien.exe
-========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
-========= Compilar se inició en 12:54 PM y tomó 02.925 segundos ==========
